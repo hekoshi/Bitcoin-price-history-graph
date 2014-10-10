@@ -16,4 +16,4 @@ You can choose what kind of graph you want and that is plotted against the date.
 Outputs
 =========
 
-Check out the output file which has the output graphs attached.
+The output graphs  are uploaded as well-figure_1.png and figure_2.png
